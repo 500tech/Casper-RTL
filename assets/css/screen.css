@@ -345,6 +345,8 @@ pre {
     overflow: auto;
     background: #F7FAFB;
     border-radius: 3px;
+    direction: ltr;
+    text-align: left;
 }
 
 pre code, tt {
